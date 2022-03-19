@@ -2,7 +2,7 @@
 
 Regular expression notes
 
-## Recommend reading:
+## Recommended reading:
 
 Regular-Expressions.info: [regular-expressions.info](https://www.regular-expressions.info/)
 
